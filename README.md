@@ -1,10 +1,10 @@
 # kate-sarant.github.io
 
-tribute page for a dancing school .
-i used:
-css
-html5
-bootstrap
-animation 
-javascript
-responsive Design
+A tribute page for a dancing school .<br>
+i used:<br>
+css<br>
+html5<br>
+bootstrap<br>
+animation <br>
+javascript<br>
+Responsive Design<br>
