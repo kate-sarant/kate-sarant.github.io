@@ -1,10 +1,11 @@
 # kate-sarant.github.io
 
 A tribute page for a dancing school .<br>
-i used:<br>
-css<br>
-html5<br>
-bootstrap<br>
+For that project I used:<br>
+CSS<br>
+HTML<br>
+BOOTSTRAP<br>
 animation <br>
-javascript<br>
+JAVASCRIPT<br>
 Responsive Design<br>
+- Site:[Site here](https://https://one-step-at-a-time.eu)
