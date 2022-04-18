@@ -8,4 +8,4 @@ BOOTSTRAP<br>
 animation <br>
 JAVASCRIPT<br>
 Responsive Design<br>
-- Site:[Site here](https://https://one-step-at-a-time.eu)
+- Site: [Site here](https://one-step-at-a-time.eu)
